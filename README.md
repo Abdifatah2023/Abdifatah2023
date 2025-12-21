@@ -2,8 +2,7 @@
 
 **`CITE Student (Developer/IT Technician/Cloud Enthusiast)`**
 
-My name is Cabdifataax Maxamuud. Enthusiastic about technology and currently pursuing a degree in Computer Information Technology at Texas Christian University. I have a keen interest in cloud computing and AWS cloud services. My goal is to deepen my understanding of the cloud technology as a whole, and I am currently exploring software engineering to further enhance my skills and drive innovation in technology.
-
+My name is Cabdifataax Maxamuud, and I am a Computer Information Technology student at Texas Christian University with a strong focus on machine learning and artificial intelligence. I am deeply interested in building intelligent systems, working with data-driven models, and applying AI to solve real-world problems. Alongside ML and AI, I have experience with cloud computing—particularly AWS—which I use to train, deploy, and scale models. My goal is to continue strengthening my expertise in AI-driven software engineering and cloud-based machine learning solutions to drive meaningful technological innovation.
    <p align="left">
       <a href="https://github.com/Abdifatah2023?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Abdifatah2023?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
